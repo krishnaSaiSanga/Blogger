@@ -1,0 +1,170 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loginPic{
+  width:100%;
+  background-image: url("giphy.gif");
+  
+  height:100vh;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.trans{
+  outline: none;
+  background: transparent;
+  backdrop-filter: blur(2px)  ;
+  border: 0px ;
+  border-bottom: 2px solid black;
+  width:100%;
+}
+.transpar{
+  width:35%;
+  border:0px solid black;
+  backdrop-filter: blur(1px);
+
+}
+.lgbtn{
+  width:100%;
+ border:2px solid gray;
+  background-color: black;
+ 
+}
+.loginhouse{
+  height:100%;
+}
+.loginh{
+  height:10%;
+}
+.tick{
+  background-color: green;
+  border:1px solid black;
+}
+.cross{
+  background-color: rgb(250, 134, 33);
+  border:1px solid black;
+}
+::placeholder{
+  color: rgb(68, 63, 63);
+}
+.pleaseLogin{
+  color: rgb(65, 65, 65);
+}
+.mainPage{
+  height:100%;
+  background-image: url(https://wallpapers.com/images/hd/4k-space-ringed-planet-4is53ai79i9sqyr6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.cdwidth{
+  width:18rem;
+}
+
+.mainm{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+.mnbox{
+  border: 1px solid black;
+  background-color: #282c34;
+  box-shadow: 5px 7px 18px black;
+  transition: transform 0.3s ease;
+}
+.mnbox:hover{
+  transform: scale(1.1);
+}
+.pst{
+  height:100%;
+  background-color: #282c34;
+}
+.mtrh{
+  height:100%;
+}
+.myposts{
+  height:100vh;
+  background-color: #282c34;
+}
+.mtr{
+  height:250vh;
+  background-color: #282c34;
+}
+.buttn{
+
+  border:3px solid black;
+  background-color: rgb(115, 115, 127);
+  box-shadow: 3px 5px 10px black;
+}
+.pstcl{
+  background-color: rgb(188, 187, 187);
+  border:2px solid black;
+}
+.edit{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:right;
+}
+.pbtn{
+  border:2px solid black;
+  background-color: rgb(145, 56, 8);
+  box-shadow: 2px 2px 3px gray;
+}
+.boom{
+  height:200vh;
+  background-image: url(https://wallpapers.com/images/hd/4k-space-ringed-planet-4is53ai79i9sqyr6.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.rrr{
+  height:100%;
+  background-color: #282c34;
+}
+.blogger{
+  background-color: #282c34;
+}
+.adjust{
+  margin-bottom: -18px;
+  margin-left: 70%;
+}
