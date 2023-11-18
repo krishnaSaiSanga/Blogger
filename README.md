@@ -9,11 +9,11 @@ Database : MySQL
 ------------------
 # Description
 -----------------
--> Developed a Full Stack Application where user can share their knowledge,experience and information to all users.
+-> Developed a Full Stack Application that lets users share their knowledge, experience and information to all other users.
 --------------
 -> Used React Js with Bootstrap as FrontEnd and created seperate components with Hooks and States.
 --------
--> Used Spring Boot as BackEnd with Spring Data JPA with login/logout authentication and authorization.
+-> Created REST API's using Spring Boot as BackEnd with Spring Data JPA with login/logout authentication and authorization.
 --------
--> Used MySQL as Database that stores all the user data and stores the path of the image saved in folder reducing the actual storage required.  
+-> Used MySQL as Database that stores all the user data and optimized storage by storing the path of the image saved in folder, thereby reducing the actual storage required.  
 -----------
