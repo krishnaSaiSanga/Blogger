@@ -31,3 +31,13 @@ Database : MySQL
 
 # Edit/Delete your Posts page
 
+<img width="960" alt="Screenshot 2023-11-18 145439" src="https://github.com/krishnaSaiSanga/Blogger/assets/150455517/2a3b3516-7fc0-4b66-9fd2-bfe87049929b">
+
+
+--------------
+
+
+# Add New Post Page
+
+
+<img width="960" alt="Screenshot 2023-11-18 145606" src="https://github.com/krishnaSaiSanga/Blogger/assets/150455517/aebf6162-1b08-4077-b4fa-d371ac516e1a">
