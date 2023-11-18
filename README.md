@@ -15,5 +15,5 @@ Database : MySQL
 --------
 -> Created REST API's using Spring Boot as BackEnd with Spring Data JPA with login/logout authentication and authorization.
 --------
--> Used MySQL as Database that stores all the user data and optimized storage by storing the path of the image saved in folder, thereby reducing the actual storage required.  
+-> Used MySQL as Database that stores all the user data and optimized storage by storing the reference of the image saved in folder, thereby reducing the actual storage required.  
 -----------
