@@ -1,6 +1,6 @@
 # Info Hub
 -------------------
-# Tech Used
+# Tech Used :
 FrontEnd : ReactJs, CSS, HTML, Javascript
 ------
 BackEnd : Java, SpringBoot, Spring Data JPA
