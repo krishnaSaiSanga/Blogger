@@ -15,5 +15,5 @@ Database : MySQL
 --------
 -> Used Spring Boot as BackEnd with Spring Data JPA with login/logout authentication and authorization.
 --------
--> Used MySQL as Database that stores all the user data and stores the path of the image saved in file reducing the actual storage required.  
+-> Used MySQL as Database that stores all the user data and stores the path of the image saved in folder reducing the actual storage required.  
 -----------
