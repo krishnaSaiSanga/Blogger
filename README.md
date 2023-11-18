@@ -29,9 +29,4 @@ Database : MySQL
 ---------------------
 
 
-# Add Post Page
 
-
-
-<img width="457" alt="Screenshot 2023-11-17 225011" src="https://github.com/krishnaSaiSanga/Blogger/assets/150455517/22bddb72-656f-4e91-9775-90d9cfbf3a24">
--------------------
