@@ -9,7 +9,7 @@ Database : MySQL
 ------------------
 #Video
 
-https://github.com/krishnaSaiSanga/Blogger/assets/150455517/3b589a39-911a-4aae-876e-bc75f6a98a2a
+https://github.com/krishnaSaiSanga/Blogger/assets/150455517/0965b549-7eda-4055-bae7-bdaf9fd14439
 ------------
 # Description
 -----------------
