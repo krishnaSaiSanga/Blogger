@@ -7,7 +7,7 @@ BackEnd : Java, SpringBoot, Spring Data JPA
 -----
 Database : MySQL
 ------------------
-#Video
+# Video
 
 https://github.com/krishnaSaiSanga/Blogger/assets/150455517/0965b549-7eda-4055-bae7-bdaf9fd14439
 ------------
